@@ -1,0 +1,8 @@
+service:
+  type: ""
+  namespace: ingress
+ingress:
+  enabled: false
+port: 3333
+replicas: 1
+tag: latest
