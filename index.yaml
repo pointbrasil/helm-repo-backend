@@ -5,9 +5,9 @@ entries:
     name: repo-backend
     version: 1.0.0
     description: Application backend Nodejs
-    home: https://github.com/budgetsaas/helm-repo-backend
+    home: https://github.com/pointbrasil/helm-repo-backend
     sources:
-    - https://github.com/budget-saas/helm-repo-backend
+    - https://github.com/pointbrasil/helm-repo-backend
     created: "2024-02-20T00:00:00.000000000Z"
     urls:
     - charts/backend-app-0.1.0.tgz

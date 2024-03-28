@@ -2,6 +2,5 @@ apiVersion: v2
 name: backend-app
 description: Application backend Nodejs
 type: application
-namespace: ingress
 version: 0.1.0
 appVersion: "1.16.0"
